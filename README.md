@@ -13,6 +13,9 @@
 
 - 📘 Estou estudando Inglês e em breve serei bilíngue kkkkkkkkk.
 
+##
+
+
 ## Conhecimentos principais em Web:
 
 <div style="display: inline_block"><br>
