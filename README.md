@@ -11,8 +11,6 @@
 
 - 🎮 Gosto bastante de jogos fps.
 
-- 📘 Estou estudando Inglês e em breve serei bilíngue kkkkkkkkk.
-
 ##
 
 
