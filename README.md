@@ -3,6 +3,8 @@
 ### Sou Técnico Formado em Desenvolvimento de Sistemas pelo Senai Bahia e estou no 3° semestre na faculdade Estácio de Sá no curso de Sistemas da Informação. 
 #### Gosto de tecnologia desde pequeno e me interessei por progamação, hoje estudo e trabalho com desenvolvimento web, mas penso no futuro migrar para o mundo mobile, sou um pouco tímido mas depois de me enturmar sou bastante sociável, tenho facilidade de aprender e gosto bastante de ajudar.
 
+##
+
 - 👨🏻‍💻 Trabalho na Ford Brasil como estágiario.
 
 - 🧠 Estou estudando Java, Angular e Spring, para me tornar fullstack.
@@ -22,7 +24,6 @@
   <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
-##
 
 ## Conhecimentos em linguagens de progamação:
 
