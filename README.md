@@ -1,11 +1,11 @@
 # Olá, meu nome é Nathan Igor e este é meu perfil no github! 👋
 
-### Sou Técnico Formado em Desenvolvimento de Sistemas pelo Senai Bahia e estou no 3° semestre na faculdade Estácio de Sá no curso de Sistemas da Informação. 
-#### Gosto de tecnologia desde pequeno e me interessei por progamação, hoje estudo e trabalho com desenvolvimento web, mas penso no futuro migrar para o mundo mobile, sou um pouco tímido mas depois de me enturmar sou bastante sociável, tenho facilidade de aprender e gosto bastante de ajudar.
+### Sou Técnico Formado em Desenvolvimento de Sistemas pelo Senai Bahia e estou no 7° semestre na faculdade Estácio de Sá no curso de Sistemas da Informação. 
+#### Gosto de tecnologia desde pequeno e me interessei por progamação, hoje estudo e trabalho com desenvolvimento web, tenho facilidade de aprender e gosto bastante de ajudar.
 
 ##
 
-- 👨🏻‍💻 Trabalho na Ford Brasil como estágiario.
+- 👨🏻‍💻 Trabalho na Ford Brasil Analista de Sistemas.
 
 - 🧠 Estou estudando Java, Angular e Spring, para me tornar fullstack.
 
